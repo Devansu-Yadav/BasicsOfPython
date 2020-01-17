@@ -1,0 +1,1 @@
+# Program to demonstrate the various kind of operations that can be applied to the string.
